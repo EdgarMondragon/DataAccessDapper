@@ -1,0 +1,14 @@
+C:\GitHub\ERRSAPI\src\ERRS_Services\DataAccess\bin\Debug\netcoreapp2.1\Entities.dll
+C:\GitHub\ERRSAPI\src\ERRS_Services\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.csprojAssemblyReference.cache
+C:\GitHub\ERRSAPI\src\ERRS_Services\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.csproj.CoreCompileInputs.cache
+C:\GitHub\ERRSAPI\src\ERRS_Services\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.AssemblyInfoInputs.cache
+C:\GitHub\ERRSAPI\src\ERRS_Services\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.AssemblyInfo.cs
+C:\GitHub\ERRSAPI\src\ERRS_Services\DataAccess\bin\Debug\netcoreapp2.1\DataAccess.deps.json
+C:\GitHub\ERRSAPI\src\ERRS_Services\DataAccess\bin\Debug\netcoreapp2.1\DataAccess.dll
+C:\GitHub\ERRSAPI\src\ERRS_Services\DataAccess\bin\Debug\netcoreapp2.1\DataAccess.pdb
+C:\GitHub\ERRSAPI\src\ERRS_Services\DataAccess\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\GitHub\ERRSAPI\src\ERRS_Services\DataAccess\bin\Debug\netcoreapp2.1\Entities.pdb
+C:\GitHub\ERRSAPI\src\ERRS_Services\DataAccess\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\GitHub\ERRSAPI\src\ERRS_Services\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.csproj.CopyComplete
+C:\GitHub\ERRSAPI\src\ERRS_Services\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.dll
+C:\GitHub\ERRSAPI\src\ERRS_Services\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.pdb

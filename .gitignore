@@ -1,0 +1,16 @@
+
+src/ERRS_Services/\.vs/config/applicationhost\.config
+
+src/ERRS_Services/\.vs/ERRS_Services/DesignTimeBuild/\.dtbcache
+
+src/ERRS_Services/\.vs/ERRS_Services/v15/\.suo
+
+src/ERRS_Services/\.vs/ERRS_Services/v15/Server/sqlite3/
+
+src/ERRS_Services/UserSettings\.API/bin/Debug/netcoreapp2\.1/
+
+src/ERRS_Services/UserSettings\.API/obj/Debug/netcoreapp2\.1/
+
+src/ERRS_Services/UserSettings\.API/UserSettings\.API\.csproj\.user
+
+src/ERRS_Services/UserSettings\.API/obj/
