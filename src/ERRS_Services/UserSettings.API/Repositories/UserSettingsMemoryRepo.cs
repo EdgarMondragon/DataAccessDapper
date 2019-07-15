@@ -34,9 +34,7 @@ namespace UserSettings.API.Repositories
         }
         public UserSettingsModel Add(UserSettingsModel model)
         {
-            model.Id = userSettingsList.Max(p => p.Id) + 1;
-            userSettingsList.Add(model);
-            return model;
+           
         }
 
         public IEnumerable<UserSettingsModel> GetAllUsers()
